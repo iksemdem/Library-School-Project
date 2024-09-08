@@ -7,7 +7,7 @@
 
         public Library()
         {
-            // Dodaj domyślne książki
+            // Dodaj domyślne książki (chat gpt bo nie chcialo mi sie samemu domyslnych ksiazek dac lol)
             Books.Add(new Book(nextID++, "Pan Tadeusz", "Adam Mickiewicz", 1834, 376));
             Books.Add(new Book(nextID++, "To", "Stephen King", 1986, 360));
             Books.Add(new Book(nextID++, "Smętarz dla zwierzaków", "Stephen King", 1983, 416));
